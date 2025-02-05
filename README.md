@@ -58,6 +58,3 @@ The notebook includes:
 ## Contributors and Acknowledgments
 This project was inspired by medical imaging research and Kaggle datasets. Contributions from deep learning enthusiasts and healthcare professionals helped refine the model.
 
----
-For further improvements, consider experimenting with different CNN architectures, hyperparameter tuning, and additional preprocessing techniques.
-
